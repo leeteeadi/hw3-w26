@@ -34,6 +34,7 @@ nav a:focus{
   outline: 5px dashed green;
 }
 
+ /* Nav/styling changes to header */
 nav{
   background-color: #ddd;
   padding: 25px 0;
