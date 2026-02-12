@@ -36,7 +36,7 @@ nav a:focus{
 
  /* Nav/styling changes to header */
 nav{
-  background-color: #ddd;
+  background-color: white;
   padding: 25px 0;
   text-align: left;
 }
@@ -52,7 +52,7 @@ nav li{
 }
 
 nav a{
-  color: #000;
+  color: black;
   font-weight: bold;
   text-decoration: none;
 }
@@ -137,7 +137,7 @@ nav a{
  /* Step 8a: Write the selector/rule property to style the .text-block class. */
   .text-block{
     background-color: rgba(255,255,255,0.8);
-    border: 5px solid #000;
+    border: 15px solid black;
     padding: 22px;
     text-align: center;
     justify-self: center;
@@ -198,7 +198,7 @@ nav a{
     /* Step 13 */
   .onlinebanking,
   .loans{
-    grid-column: 2 / span 3;
+    grid-column: 1 / span 3;
   }
 
     /* Step 14 */
